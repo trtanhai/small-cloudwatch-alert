@@ -16,7 +16,3 @@ This project is 100% Free Tier compatible.
 
 ## 🏗️ Architecture Diagram
 See: **diagrams/architecture.png**
-
----
-
-## 📁 Project Structure
